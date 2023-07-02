@@ -1,0 +1,10 @@
+Apr 15, 2023 5:11:11 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Starting HTTP server...
+Apr 15, 2023 5:11:11 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [localhost:8080]
+Apr 15, 2023 5:11:11 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Apr 15, 2023 5:11:11 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Listening at http://localhost:8080
+Apr 15, 2023 5:11:11 PM edu.stevens.cs522.chat.webservice.Main info
+INFO: Service available at http://localhost:8080/chat...
